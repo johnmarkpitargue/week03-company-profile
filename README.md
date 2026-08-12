@@ -1,5 +1,5 @@
 ## Project Title
-**Company Profile Website**
+**My Company Profile Website**
 
 ---
 
@@ -132,6 +132,25 @@ In CompanyController.php, separate methods are created to return views for each 
 - bootstrap/: Handles framework initialization, application bootstrapping, and performance cache files (bootstrap/cache/).
 
 - config/: Holds configuration files for database settings, mail, security, services, and core framework features.
+
+## Screenshots
+### Home Page
+![Home](<screenshots/Home.png>)
+
+### About Page
+![About](<screenshots/About.png>)
+
+### Services Page
+![Services](<screenshots/About.png>)
+
+### Contacts Page
+![Contacts](<screenshots/Contacts.png>)
+
+### Navigation Bar 
+![Navigation Bar](<screenshots/NavBar.png>)
+
+### Footer
+ ![Footer](<screenshots/Footer.png>)
 
 ## Problems Encountered
 During the setup and development of this Laravel project, the following challenges were encountered:
