@@ -133,6 +133,8 @@ In CompanyController.php, separate methods are created to return views for each 
 
 - config/: Holds configuration files for database settings, mail, security, services, and core framework features.
 
+---
+
 ## Screenshots
 ### Home Page
 ![Home](<screenshots/Home.png>)
