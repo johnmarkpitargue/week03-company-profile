@@ -147,7 +147,7 @@ class CompanyController
             'email' => 'hello@vanguardsolutions.com',
             'phone' => '+63 912 345 6789',
             'social' => [
-                'Facebook' => 'https://facebook.com/vanguardsolutions',
+                'Facebook' => 'https://facebook.com/',
                 'LinkedIn' => 'https://linkedin.com/company/vanguardsolutions',
             ],
         ];
